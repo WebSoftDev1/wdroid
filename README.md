@@ -9,8 +9,7 @@
 
 ## 🚀 Key Features
 *   **Pure Web Tech:** Built strictly with HTML5, CSS3, and Vanilla JavaScript.
-*   **Fully Local:** Operates 100% on the client-side for maximum privacy and instant response times.
-*   **Minimalist Aesthetic:** A distraction-free interface focused on performance and efficiency.
+*   **Fully Local:** Operates 100% on the client-side(Not really) for maximum privacy and instant response times.
 *   **Independent Architecture:** A standalone system designed to function without external dependencies.
 
 ## 🛠️ Tech Stack
