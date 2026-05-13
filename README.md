@@ -21,12 +21,17 @@
 ![WDROID Interface](https://i.postimg.cc/tJrTsyVy/frame-00001.png)
 *The WDROID minimalist interface in action.*
 
-## ⚖️ Licensing & Usage
-This project is open for community use under the following conditions:
-1.  **Usage:** You are free to use, study, and modify the code.
-2.  **Invite Only:** Access to specific development branches or modules may require an official invite.
-3.  **Non-Commercial:** **YOU CANNOT SELL THIS SOFTWARE** or any derivative works based on it.
-4.  **Ownership:** All rights to the WebSoft and WDROID brand belong to the original developer.
+## ⚖️ License & Credits
+### BananaLicense v1.0
+This project follows the **BananaLicense v1.0**:
+1.  **Usage:** Free to use, study, and modify.
+2.  **Non-Commercial:** **YOU CANNOT SELL THIS SOFTWARE.** It must remain free.
+3.  **Donations:** Allowed for contributors, but the software itself cannot be charged for.
+
+### Credits
+*   **Developer:** joaorqqq
+*   **Organization:** WebSoft
+*   **Community:** Githubers (via Official Discord)
 
 ## 💬 Community
 Join our official server to follow the development and get your invite:
